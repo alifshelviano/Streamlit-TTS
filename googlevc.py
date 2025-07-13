@@ -1,5 +1,5 @@
 import streamlit as st
-from gtts import gTTS
+from googlevc import gTTS
 import os
 
 st.title("🔊 Teks ke Suara (Bahasa Indonesia) dengan gTTS")
